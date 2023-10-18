@@ -2,8 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Usability of the app
-This app is used for text manipulation. i.e it is used to change text Lowercase to Uppercase and viceversa, remove extra spaces , copy text and clear text.
+Usability of the app:<br>
+This app is used for text manipulation. i.e it is used to change text Lowercase to Uppercase and viceversa, remove extra spaces , copy text and clear text.<hr>
 
 ## Available Scripts
 
